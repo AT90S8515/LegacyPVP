@@ -2,6 +2,7 @@ LegacyPVP
 =========
 
 League of legends custom client, that is based of LegendaryClient and Wintermint
+###Please use LegenadryClient. This client will be underground for a bit
 
 #Features
 * Bridge all your accounts to one client. Add them with the easy to use Auth system
