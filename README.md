@@ -3,6 +3,8 @@ LegacyPVP
 
 League of legends custom client, that is based of LegendaryClient and Wintermint
 ####Please use LegenadryClient. This client will be underground for a bit
+Work will continue on this client after completion of LegendaryClient.
+This will be a different UI and different logic core [goodbye jabber-net]
 
 #Features
 * Bridge all your accounts to one client. Add them with the easy to use Auth system
@@ -10,7 +12,7 @@ League of legends custom client, that is based of LegendaryClient and Wintermint
 * Ability to host a private server to store your login details on
 * Ability to use LPVPS to store you Accounts and Replays
 * Replays built right into the client. Recording starts as soon as the game starts
-* Watch live matches, Without a spectator delay
+* Watch live matches, Without a spectator delay (Except for the one that riot has serverside)
 * And more.
 
 LegacyLogin
