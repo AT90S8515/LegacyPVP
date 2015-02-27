@@ -3,6 +3,9 @@ LegacyPVP
 
 League of legends custom client, that is based of LegendaryClient and Wintermint
 ####Please use LegenadryClient. This client will be underground for a bit
+###Current status
+######Stable (Not Published Publically)
+Not sure when I will release this, GUI is crap and same as the code
 Work will continue on this client after completion of LegendaryClient.
 This will be a different UI and different logic core [goodbye jabber-net]
 
